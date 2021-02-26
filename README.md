@@ -7,7 +7,7 @@
 ## Requirement
 Refer to "requirements.txt".
  
-## Installation
+## Install and Execute
 1. Install depending packages.
     * For example : `pip install -r requirements.txt`
 2. Get code of the BOT.
@@ -19,6 +19,7 @@ Refer to "requirements.txt".
 
 ## Usage
 If you send `!trans help`, the BOT will tell you how to use.
+
 Following is the help message.
 
 ![image](https://user-images.githubusercontent.com/41296838/109307220-a0dfc300-7883-11eb-80de-241a40cfc674.png)
