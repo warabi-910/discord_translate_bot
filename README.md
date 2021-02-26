@@ -7,7 +7,7 @@
 ## Requirement
 Refer to "requirements.txt".
  
-## Install and Execute
+## How to run
 1. Install depending packages.
     * For example : `pip install -r requirements.txt`
 2. Get code of the BOT.
@@ -17,7 +17,7 @@ Refer to "requirements.txt".
 4. Run BOT.
     * For example : `python src/translate_bot.py`
 
-## Usage
+## How to use
 If you send `!trans help`, the BOT will tell you how to use.
 
 Following is the help message.
